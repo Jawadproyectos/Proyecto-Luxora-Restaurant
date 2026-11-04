@@ -1,0 +1,82 @@
+     público objetivo;
+                            Parejas y eventos: Gente que viene a celebrar aniversarios, cumpleaños o citas. Buscan un sitio bonito y no les importa gastar más por una noche especial.
+
+                            Negocios: Jefes y ejecutivos que hacen comidas de empresa o reuniones con clientes. Quieren rapidez, privacidad y facilidades para pagar y reservar.
+
+                            Foodies: Amantes de la comida que quieren probar nuestra fusión mediterránea moderna y el producto local. Son los que más usarán la web y redes sociales.
+
+                            Turistas: Viajeros con dinero que buscan un restaurante elegante para probar la gastronomía de la zona.
+
+
+
+
+
+
+
+
+
+
+
+
+     mercado local;    Nuestro mercado local se centra en una zona urbana o turística con un nivel económico medio-alto. No competimos por precio, sino por ofrecer una experiencia exclusiva.
+                    1. Perfil del cliente local:
+                        Ejecutivos: Buscan comidas de negocios rápidas, discretas y con buena presentación.
+                        Parejas y familias: Gente de la zona que viene a celebrar ocasiones especiales (aniversarios, cumpleaños).
+                        Turistas: Extranjeros o visitantes que quieren probar comida mediterránea de calidad con un toque moderno.
+                    2. Tendencias que aprovechamos:
+                         Producto de proximidad (Km 0): Al cliente local le gusta saber que las verduras, carnes y pescados son de proveedores de la región y de temporada.
+                        Opciones saludables: Platos mediterráneos adaptados a nuevas tendencias (opciones veganas gourmet o sin gluten).
+                        Takeaway Premium: Gente con dinero que quiere comer alta cocina pero en su propia casa, con un empaquetado cuidado.
+                    3. El papel de nuestra tecnología en el mercado:
+                        Los restaurantes de la zona suelen ser tradicionales. Al usar una web moderna con reservas automáticas y pagos rápidos, ganamos una ventaja competitiva enorme frente a los competidores locales que aún apuntan las mesas a mano.
+
+
+
+
+
+
+
+
+     demanda;           La demanda de nuestro restaurante es alta pero exigente. El público actual no busca solo llenarse, busca una experiencia gastronómica completa, rápida y personalizada.
+                    1. ¿Por qué nos van a elegir? (Factores de demanda):
+                        Interés por lo saludable: La comida mediterránea está de moda porque es sana, y al darle un toque moderno atraemos al público joven con dinero.
+                        Consumo local: Hay una fuerte demanda de clientes que exigen saber de dónde viene el producto (sostenibilidad y frescura).
+                        Turismo gastronómico: Los turistas buscan restaurantes recomendados en internet para probar la comida típica del lugar, pero con una presentación de alta cocina.
+                    2. Comportamiento y flujo de clientes:
+                        Días laborables (Mediodía): Alta demanda de ejecutivos para almuerzos de trabajo. Valoran mucho la rapidez en el servicio de pagos y pedidos.
+                        Fines de semana y noches: Demanda enfocada en el ocio, cenas románticas y celebraciones. El tique medio por cliente sube en este horario.
+                        Estacionalidad: Dependiendo de la época del año (como verano o Navidad), la demanda aumentará por el turismo o las cenas de empresa.
+                    3. Necesidad de la tecnología para cubrir la demanda:
+                        Como la demanda en horas punta será alta, si no tenemos un sistema informático para las reservas y los pedidos, colapsaremos. La web y el software nos aseguran que el cliente no tenga que esperar de más.
+
+
+
+
+
+
+    competencia;        En nuestro entorno nos enfrentamos a dos tipos de competidores. Para destacar frente a ellos, nos enfocamos en el toque moderno de la cocina y en nuestra digitalización.
+                    1. Competencia Directa (Restaurantes de Alta Cocina / Km 0):
+                        Son restaurantes mediterráneos tradicionales de precio alto o asadores premium de la zona.
+                        Sus puntos fuertes: Tienen una clientela local muy fiel y llevan años en el mercado.
+                        Sus debilidades: Muchos se han quedado anticuados en el menú (poca innovación) y sus procesos de reserva siguen siendo por teléfono o apuntando en papel.
+                    2. Competencia Indirecta (Gastrobares y Restaurantes Modernos):
+                        Son locales más informales, de tapas de autor o cocina fusión, que atraen a ejecutivos y jóvenes.
+                        Sus puntos fuertes: Tienen muy buen marketing en redes sociales y un ambiente muy estético.
+                         Sus debilidades: No ofrecen la experiencia formal, el producto de temporada estricto ni la exclusividad que busca nuestro cliente para ocasiones especiales.
+                    3. Nuestra Ventaja Competitiva (Diferenciación):
+                        Ofrecemos el equilibrio perfecto: la calidad del producto local tradicional combinada con técnicas modernas.
+                        Nos diferenciamos radicalmente gracias a la tecnología: la facilidad de reservar desde nuestra web, la rapidez para pagar y pedir en mesa, y una presencia activa y cuidada en redes sociales que la competencia tradicional no tiene.
+
+
+
+
+
+     oportunidades;    Hemos detectado varias situaciones en el mercado actual que podemos aprovechar para que el restaurante crezca rápido y se posicione bien:
+                    1. Tendencia por el producto local (Eco/Km 0):
+                        Cada vez más gente está dispuesta a pagar más por comida saludable y de proximidad. Al basar nuestro menú en productos locales de temporada, podemos hacer campañas de marketing muy potentes que atraigan a este público concienciado.
+                    2. Digitalización del sector:
+                        Muchos restaurantes de la competencia directa (los más tradicionales) no tienen una buena página web ni permiten reservar online de forma automática. Nuestra propuesta tecnológica nos da la oportunidad de captar a todos esos clientes (sobre todo ejecutivos y turistas) que prefieren gestionarlo todo desde el móvil.
+                    3. Vacío en el mercado de Takeaway Premium:
+                        El servicio de comida para llevar casi siempre se asocia a comida rápida (pizzas, hamburguesas, sushi). Existe una gran oportunidad para ofrecer cenas de alta cocina mediterránea listas para llevar, orientadas a clientes que quieren cenar bien en casa pero no tienen tiempo de cocinar.
+                    4. Turismo gastronómico en auge:
+                        El turismo de alto poder adquisitivo busca experiencias auténticas del lugar que visita. Si trabajamos bien el posicionamiento web y las redes sociales, podemos convertirnos en una parada obligatoria para los turistas que buscan gastronomía local con un toque moderno.
